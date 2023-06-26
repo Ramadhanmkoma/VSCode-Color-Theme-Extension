@@ -2,8 +2,9 @@
 	"tokenColors": [
 		{
 			"settings": {
+				"fontStyle": "italic",
 				"background": "#272822",
-				"foreground": "#F8F8F2"
+				"foreground": "#F8F8F2",
 			}
 		},
 		{
@@ -24,14 +25,14 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#4f42ff"
+				"foreground": "#3399ff"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#4f42ff"
+				"foreground": "#7ab82a"
 			}
 		},
 		{
@@ -41,7 +42,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#4f42ff"
+				"foreground": "#7ab82a"
 			}
 		},
 		{
@@ -55,7 +56,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#3aa1e6"
 			}
 		},
 		{
