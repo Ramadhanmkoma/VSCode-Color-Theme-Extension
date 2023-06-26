@@ -1,0 +1,21 @@
+{
+  "name": "techswahili",
+  "displayName": "TechSwahili Theme",
+  "description": "Color Theme for VScode, made with love from Anonymous",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TechSwahili Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TechSwahili Theme-color-theme.json"
+      }
+    ]
+  }
+}
