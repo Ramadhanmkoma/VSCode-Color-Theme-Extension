@@ -1,8 +1,9 @@
 {
   "name": "techswahili",
   "displayName": "TechSwahili Theme",
-  "description": "Color Theme for VScode, made with love from Anonymous",
+  "description": "Color Theme for VScode, made with love.",
   "version": "0.0.1",
+  "publisher": "Ramadhanmkoma",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -21,5 +22,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ramadhanmkoma/VSCode-Color-Theme-Extension.git"
-  }  
+  }
 }
