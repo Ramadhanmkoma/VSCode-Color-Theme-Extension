@@ -11,7 +11,8 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#75715E"
+				"fontStyle": "italic",
+				"foreground": "#c1c1c188"
 			}
 		},
 		{
@@ -22,16 +23,56 @@
 			}
 		},
 		{
+			"name": "String",
+			"scope": "string.quoted.double.html",
+			"settings": {
+				"foreground": "#66D9EF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "String",
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end"
+			],
+			"settings": {
+				"foreground": "#E6DB74",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": [
+				"punctuation.definition.string.begin.json.comments",
+				"punctuation.definition.string.end.json.comments"
+			],
+			"settings": {
+				"foreground": "#ac85ff",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "punctuation.separator.comma.js",
+			"settings": {
+				"foreground": "#66D9EF",
+				"fontStyle": ""
+			}
+		},
+		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#3399ff"
+				"fontStyle": "italic",
+				"foreground": "#33ffd6"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#7ab82a"
 			}
 		},
@@ -42,6 +83,7 @@
 				"constant.other"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#7ab82a"
 			}
 		},
@@ -49,14 +91,23 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#3aa1e6"
+				"fontStyle": "italic",
+				"foreground": "#7ab82a"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#f1f1f199",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -80,7 +131,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"foreground": "#F92672"
 			}
 		},
 		{
@@ -88,7 +139,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
+				"foreground": "#F92672"
 			}
 		},
 		{
@@ -96,7 +147,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#62B0FF"
 			}
 		},
 		{
@@ -111,7 +162,7 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#F92672"
 			}
 		},
@@ -119,8 +170,16 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"fontStyle": "italic",
+				"foreground": "#33ff99"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name.id.css",
+			"settings": {
+				"foreground": "#ac85ff",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -151,6 +210,14 @@
 			}
 		},
 		{
+			"name": "Library class/type",
+			"scope": "support.type.property-name.css",
+			"settings": {
+				"foreground": "#33ff99",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
@@ -162,7 +229,7 @@
 			"scope": "invalid",
 			"settings": {
 				"background": "#F92672",
-				"fontStyle": "",
+				"fontStyle": "italic",
 				"foreground": "#F8F8F0"
 			}
 		},
@@ -173,15 +240,31 @@
 				"background": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
-		}
+		},
 	],
 	"colors": {
-		"editor.background": "#272822",
-		"editorCursor.foreground": "#F8F8F0",
-		"editor.foreground": "#F8F8F2",
-		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
+		"activityBar.background": "#0D0E1C",
+		"activityBar.foreground": "#62b0ff",
+		"sideBar.background": "#191d38",
+		"sideBarSectionHeader.background": "#113",
+		"scrollbarSlider.background": "#113",
+		"scrollbarSlider.hoverBackground": "#0D0E1C",
+		"statusBar.background": "#0D0E1C",
+		"statusBar.foreground": "#62b0ff",
+		"tab.activeBackground": "#202342",
+		"tab.inactiveBackground": "#0D0E1C",
+        "tab.activeBorderTop": "#62b0ff",
+        "tab.hoverBackground": "#111144",
+		"terminal.background": "#0D0E1C",
+		"terminal.tab.activeBorder": "#ff0000",
+		"editor.background": "#1a1c36",
+		"editorCursor.foreground": "#62b0ff",
+		"editor.foreground": "#F1F1FF",
+		"editorWhitespace.foreground": "#223355",
+		"editor.lineHighlightBackground": "#223355",
+		"editor.selectionBackground": "#223355",
+		"editorError.background": "#ff0000",
+		
 	},
 	"name": "TechSwahili Theme"
 }
