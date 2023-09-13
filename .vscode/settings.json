@@ -1,0 +1,13 @@
+{
+    "properties": {
+        "myExtension.theme": {
+            "type": "string",
+            "default": "TechSwahili Theme",
+            "enum": [
+                "TechSwahili Theme",
+                "TechSwahili Light"
+            ],
+            "description": "Select your preferred theme"
+        }
+    }
+}

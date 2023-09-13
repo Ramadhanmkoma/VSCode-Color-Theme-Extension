@@ -326,7 +326,7 @@
 		"editorHint.foreground": "#282a3a",
 		"editorUnnecessaryCode.border": "#282a3a",
 		"editorUnnecessaryCode.opacity": "#282a3a",
-		"editorUnnecessaryCode.foreground": "#282a3a",
+		// "editorUnnecessaryCode.foreground": "#282a3a",
 		"editorSuggestWidget.background": "#0D0E1C",
 		"editorSuggestWidget.border": "#0D0E1C",
 		"editorSuggestWidget.foreground": "#62b0ff",
@@ -337,7 +337,7 @@
 		"editorHoverWidget.statusBarBackground": "#0D0E1C",
 		"editorMarkerNavigation.background": "#0D0E1C",
 		"editorMarkerNavigationError.background": "#ff657a",
-		"editorMarkerNavigationWarning.background": "#ffd76d",
+		// "editorMarkerNavigationWarning.background": "#ffd76d",
 		"editorMarkerNavigationInfo.background": "#62b0ff",
 		"activityBar.activeFocusBorder": "#ffd76d",
 		"activityBar.border": "#161821",
@@ -412,3 +412,4 @@
 	"window.titleBarStyle": "custom",
 	"name": "TechSwahili Color Theme"
 }
+
