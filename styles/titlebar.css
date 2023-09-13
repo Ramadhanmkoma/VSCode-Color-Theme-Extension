@@ -1,0 +1,10 @@
+.titlebar {
+    background-color: #0D0E1C;
+    color: #FFFFFF;
+}
+
+.titlebar .titlebar-text {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.5em;
+}
