@@ -5,7 +5,8 @@
             "default": "TechSwahili Theme",
             "enum": [
                 "TechSwahili Theme",
-                "TechSwahili Light"
+                "TechSwahili Light",
+                "TechSwahili Dark -- No Italics"
             ],
             "description": "Select your preferred theme"
         }
