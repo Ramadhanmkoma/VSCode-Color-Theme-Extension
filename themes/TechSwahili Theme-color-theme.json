@@ -1,5 +1,5 @@
 {
-	"tokenColors": [
+	"tokenColors": [	
 		{
 			"settings": {
 				"fontStyle": "italic",
@@ -99,14 +99,14 @@
 			"scope": "keyword",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#7ab82a"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#f1f1f199",
+				"foreground": "#66D9EF",
 				"fontStyle": "bold"
 			}
 		},
@@ -316,6 +316,29 @@
 		"editorOverviewRuler.bracketMatchForeground": "#888d94",
 		"editorGutter.background": "#0D0E1C",
 		"editorError.background": "#ff657a",
+		"editorError.foreground": "#282a3a",
+		"editorWarning.background": "#ffd76d",
+		"editorWarning.foreground": "#282a3a",
+		"editorWhitespace.foreground": "#282a3a",
+		"editorInfo.background": "#62b0ff",
+		"editorInfo.foreground": "#282a3a",
+		"editorHint.background": "#bad761",
+		"editorHint.foreground": "#282a3a",
+		"editorUnnecessaryCode.border": "#282a3a",
+		"editorUnnecessaryCode.opacity": "#282a3a",
+		"editorUnnecessaryCode.foreground": "#282a3a",
+		"editorSuggestWidget.background": "#0D0E1C",
+		"editorSuggestWidget.border": "#0D0E1C",
+		"editorSuggestWidget.foreground": "#62b0ff",
+		"editorSuggestWidget.selectedBackground": "#0D0E1C",
+		"editorHoverWidget.background": "#0D0E1C",
+		"editorHoverWidget.border": "#0D0E1C",
+		"editorHoverWidget.foreground": "#62b0ff",
+		"editorHoverWidget.statusBarBackground": "#0D0E1C",
+		"editorMarkerNavigation.background": "#0D0E1C",
+		"editorMarkerNavigationError.background": "#ff657a",
+		"editorMarkerNavigationWarning.background": "#ffd76d",
+		"editorMarkerNavigationInfo.background": "#62b0ff",
 		"activityBar.activeFocusBorder": "#ffd76d",
 		"activityBar.border": "#161821",
 		"activityBar.inactiveForeground": "#535763",
