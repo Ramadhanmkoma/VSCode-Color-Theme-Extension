@@ -1,5 +1,3 @@
-# TechSwahili Color Scheme
-
 # TechSwahili Color Theme Extension
 
 ![TechSwahili Color Theme](winter-is-back.png)
