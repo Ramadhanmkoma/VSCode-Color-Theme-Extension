@@ -34,6 +34,12 @@
         "uiTheme": "vs-dark",
         "path": "./themes/techswahili-dark-default.json",
         "isDark": true
+      },
+      {
+        "label": "Winter Is Back -- No Italics -- TechSwahili Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/techswahili-dark-default-no-italics.json",
+        "isDark": true
       }
     ]
   },
@@ -50,7 +56,14 @@
     "techswahili theme",
     "ramadhan mkoma",
     "ramadhan mohammed mkoma",
-    "dark theme"
+    "dark theme",
+    "winter is back",
+    "winter is back theme",
+    "winter is back color theme",
+    "color theme",
+    "italic theme",
+    "italics theme",
+    "techswahili color theme"
   ],
   "icon": "icon.png",
   "license": "MIT",

@@ -2,7 +2,7 @@
 
 # TechSwahili Color Theme Extension
 
-![TechSwahili Color Theme](screenshot.png)
+![TechSwahili Color Theme](winter-is-back.png)
 
 TechSwahili Color Theme is a vibrant and visually appealing color theme for Visual Studio Code that combines the beauty of Swahili culture with a developer-friendly coding environment. With this theme, you can bring a touch of East African flair to your coding experience.
 
