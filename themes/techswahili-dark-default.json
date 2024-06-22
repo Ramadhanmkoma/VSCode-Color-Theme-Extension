@@ -43,7 +43,7 @@
     "activityBar.background": "#0d1117",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#1f6feb",
-    "activityBar.activeBorder": "#f78166",
+    "activityBar.activeBorder": "#62b0ff",
     "activityBar.border": "#30363d",
     "sideBar.foreground": "#e6edf3",
     "sideBar.background": "#010409",
@@ -101,7 +101,7 @@
     "tab.unfocusedActiveBorderTop": "#30363d",
     "tab.activeBorder": "#0d1117",
     "tab.unfocusedActiveBorder": "#0d1117",
-    "tab.activeBorderTop": "#f78166",
+    "tab.activeBorderTop": "#62b0ff",
     "breadcrumb.foreground": "#7d8590",
     "breadcrumb.focusForeground": "#e6edf3",
     "breadcrumb.activeSelectionForeground": "#7d8590",
@@ -150,7 +150,7 @@
     "minimapSlider.activeBackground": "#8b949e47",
     "panel.background": "#010409",
     "panel.border": "#30363d",
-    "panelTitle.activeBorder": "#f78166",
+    "panelTitle.activeBorder": "#62b0ff",
     "panelTitle.activeForeground": "#e6edf3",
     "panelTitle.inactiveForeground": "#7d8590",
     "panelInput.border": "#30363d",
@@ -262,7 +262,8 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#8b949e"
+        "foreground": "#8b949e",
+        "fontStyle": "italic"
       }
     },
     {
@@ -271,7 +272,8 @@
         "constant.character"
       ],
       "settings": {
-        "foreground": "#ff7b72"
+        "foreground": "#ff7b72",
+        "fontStyle": "italic"
       }
     },
     {

@@ -28,6 +28,12 @@
         "uiTheme": "vs-dark",
         "path": "./themes/techswahili-dark-no-italics.json",
         "isDark": true
+      },
+      {
+        "label": "Winter is back Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/techswahili-dark-default.json",
+        "isDark": true
       }
     ]
   },
@@ -35,6 +41,17 @@
     "type": "git",
     "url": "https://github.com/Ramadhanmkoma/VSCode-Color-Theme-Extension.git"
   },
+  "keywords": [
+    "techswahili",
+    "theme",
+    "color",
+    "Ramadhanmkoma",
+    "Ramadhan",
+    "techswahili theme",
+    "ramadhan mkoma",
+    "ramadhan mohammed mkoma",
+    "dark theme"
+  ],
   "icon": "icon.png",
   "license": "MIT",
   "bugs": {
