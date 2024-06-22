@@ -2,7 +2,7 @@
   "name": "techswahili",
   "displayName": "TechSwahili Theme",
   "description": "Color Theme for VScode, made with love.",
-  "version": "0.0.6",
+  "version": "1.0.1",
   "publisher": "Ramadhanmkoma",
   "engines": {
     "vscode": "^1.79.0"
