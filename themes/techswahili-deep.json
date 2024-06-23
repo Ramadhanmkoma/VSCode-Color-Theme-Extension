@@ -1,10 +1,10 @@
 {
-	"tokenColors": [	
+	"tokenColors": [
 		{
 			"settings": {
 				"fontStyle": "italic",
-				// "background": "#272822",
-				"foreground": "#F8F8F2",
+				"background": "#272822",
+				"foreground": "#F8F8F2"
 			}
 		},
 		{
@@ -228,6 +228,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
+				"background": "#F92672",
 				"fontStyle": "italic",
 				"foreground": "#F8F8F0"
 			}
@@ -236,9 +237,10 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
+				"background": "#AE81FF",
 				"foreground": "#F8F8F0"
 			}
-		},
+		}
 	],
 	"brackets": [
 		{
@@ -265,24 +267,23 @@
 	"colors": {
 		"activityBar.background": "#0D0E1C",
 		"activityBar.foreground": "#62b0ff",
-		"sideBar.background": "#0D0E1C",
-		"sideBarSectionHeader.background": "#0D0E1C",
+		"sideBar.background": "#000000",
+		"sideBarSectionHeader.background": "#000000",
 		"sideBarSectionHeader.foreground": "#62b0ff",
 		"sideBarTitle.foreground": "#62b0ff",
-		"scrollbarSlider.background": "#113",
+		"scrollbarSlider.background": "#1A1B2C",
 		"scrollbarSlider.hoverBackground": "#0D0E1C",
 		"statusBar.background": "#0D0E1C",
 		"statusBar.foreground": "#62b0ff",
-		"tab.activeBackground": "#1a1c36",
-		"tab.inactiveBackground": "#0D0E1C",
+		"tab.activeBackground": "#0D0E1C",
+		"tab.inactiveBackground": "#191b35",
 		"tab.activeBorderTop": "#62b0ff",
 		"tab.hoverBackground": "#111144",
 		"terminal.background": "#0D0E1C",
 		"terminal.tab.activeBorder": "#ff0000",
-		"editor.background": "#1a1c36",
+		"editor.background": "#0D0E1C",
 		"editorCursor.foreground": "#62b0ff",
 		"editor.foreground": "#F1F1FF",
-		"editorWhitespace.foreground": "#223355",
 		"editor.lineHighlightBackground": "#223355",
 		"editor.selectionBackground": "#223355",
 		"editorGroupHeader.tabsBackground": "#0D0E1C",
@@ -290,8 +291,9 @@
 		"editorGroup.dropBackground": "#0D0E1C",
 		"editorGroupHeader.tabsBorder": "#0D0E1C",
 		"editorGroupHeader.noTabsBackground": "#0D0E1C",
-		"editorIndentGuide.background1": "#223355",
-		"editorIndentGuide.activeBackground1": "#223355",
+		"editorGroupHeader.noTabsBorder": "#0D0E1C",
+		"editorIndentGuide.background": "#223355",
+		"editorIndentGuide.activeBackground": "#223355",
 		"editorLineNumber.foreground": "#888d94",
 		"editorLineNumber.activeForeground": "#b2b9bd",
 		"editorRuler.foreground": "#888d94",
@@ -312,8 +314,10 @@
 		"editorOverviewRuler.infoForeground": "#888d94",
 		"editorOverviewRuler.bracketMatchForeground": "#888d94",
 		"editorGutter.background": "#0D0E1C",
+		"editorWhitespace.foreground": "#282a3a",
 		"editorInfo.background": "#62b0ff",
 		"editorInfo.foreground": "#282a3a",
+		"editorHint.background": "#bad761",
 		"editorHint.foreground": "#282a3a",
 		"editorUnnecessaryCode.border": "#282a3a",
 		"editorUnnecessaryCode.opacity": "#282a3a",
@@ -341,7 +345,7 @@
 		"tab.activeForeground": "#ffd76d",
 		"tab.activeModifiedBorder": "#535763",
 		"tab.border": "#282a3a",
-		"tab.hoverBorder": "#62b0ff",
+		"tab.hoverBorderTop": "#62b0ff",
 		"tab.hoverForeground": "#eaf2f1",
 		"tab.inactiveForeground": "#888d94",
 		"tab.inactiveModifiedBorder": "#535763",
@@ -377,13 +381,28 @@
 		"terminalCommandDecoration.successBackground": "#bad761",
 		"terminalCursor.background": "#00000000",
 		"terminalCursor.foreground": "#eaf2f1",
+		"terminalCursorResource.foreground": "#eaf2f1",
+		"terminalInputIcon.foreground": "#eaf2f1",
+		"terminalStatusList.noFolderBackground": "#3a3d4b",
+		"terminalStatusList.noFolderForeground": "#b2b9bd",
+		"terminalStatusList.processingBackground": "#ffd76d",
+		"terminalStatusList.processingForeground": "#282a3a",
+		"terminalStatusList.rootFolderBackground": "#3a3d4b",
+		"terminalStatusList.rootFolderForeground": "#b2b9bd",
+		"terminalStatusList.separatorBackground": "#282a3a",
+		"window.titleBarStyle": "custom",
+		"window.titleBar.activeBackground": "#0D0E1C",
 		"window.activeBorder": "#0D0E1C",
 		"window.inactiveBorder": "#0D0E1C",
-
+		"window.titleBar.activeForeground": "#62b0ff",
+		"window.titleBar.inactiveBackground": "#0D0E1C",
+		"window.titleBar.inactiveForeground": "#62b0ff",
+		"window.activeTitleBarForeground": "#62b0ff",
+		"window.inactiveTitleBarForeground": "#62b0ff",
+		"window.activeTitleBarBackground": "#0D0E1C"
 	},
 	"semanticHighlighting": true,
 	"window.zoomLevel": 0,
 	"window.titleBarStyle": "custom",
-	"name": "TechSwahili Color Theme"
+	"name": "TechSwahili Deep"
 }
-

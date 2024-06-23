@@ -2,7 +2,7 @@
   "name": "techswahili",
   "displayName": "TechSwahili Theme",
   "description": "Color Theme for VScode, made with love.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Ramadhanmkoma",
   "engines": {
     "vscode": "^1.79.0"
@@ -18,10 +18,9 @@
         "path": "./themes/TechSwahili Theme-color-theme.json"
       },
       {
-        "label": "TechSwahili Light",
-        "uiTheme": "vs",
-        "path": "./themes/techswahili-light.json",
-        "isDark": false
+        "label": "TechSwahili Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/techswahili-deep.json"
       },
       {
         "label": "TechSwahili Dark -- No Italics",
@@ -40,6 +39,12 @@
         "uiTheme": "vs-dark",
         "path": "./themes/techswahili-dark-default-no-italics.json",
         "isDark": true
+      },
+      {
+        "label": "TechSwahili Light",
+        "uiTheme": "vs",
+        "path": "./themes/techswahili-light.json",
+        "isDark": false
       }
     ]
   },
