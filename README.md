@@ -2,15 +2,36 @@
 
 ![TechSwahili Color Theme](winter-is-back.png)
 
-TechSwahili Color Theme is a vibrant and visually appealing color theme for Visual Studio Code that combines the beauty of Swahili culture with a developer-friendly coding environment. With this theme, you can bring a touch of East African flair to your coding experience.
+TechSwahili Color Theme is a vibrant and visually appealing color theme collection for Visual Studio Code that combines the beauty of Swahili culture with a developer-friendly coding environment. With these themes, you can bring a touch of East African flair to your coding experience.
+
+## Available Themes
+
+### 🌟 TechSwahili Modern Dark (NEW!)
+A contemporary dark theme featuring:
+- **Modern purple accent color** (#7c3aed) for a sophisticated look
+- **Enhanced bracket pair colorization** with 6 distinct colors
+- **Improved syntax highlighting** with better contrast and readability
+- **Clean, minimal UI** with modern design elements
+- **Better git integration** with clear status indicators
+- **Optimized terminal colors** for improved readability
+- **Contemporary color palette** inspired by modern design trends
+
+### Other Available Themes
+- **TechSwahili Deep**: Rich, deep dark theme with blue accents
+- **Winter Is Back - TechSwahili Dark**: Classic dark theme with comprehensive language support
+- **TechSwahili Dark - No Italics**: Same great theme without italic font styles
+- **Winter Is Back - No Italics**: Classic version without italics
+- **TechSwahili Light**: Clean light theme for daytime coding
 
 ## Features
 
-- **Rich Color Palette**: The TechSwahili Color Theme offers a carefully curated selection of colors inspired by the vibrant culture of East Africa. The harmonious blend of hues enhances readability and makes your code visually engaging.
+- **Rich Color Palette**: The TechSwahili Color Theme collection offers carefully curated selections of colors inspired by the vibrant culture of East Africa. The harmonious blend of hues enhances readability and makes your code visually engaging.
 
-- **Language Support**: The color theme has been designed to provide optimal syntax highlighting for a wide range of programming languages and file types. Whether you're writing code in JavaScript, Python, HTML, CSS, or any other language, TechSwahili Color Theme ensures a consistent and enjoyable coding experience.
+- **Language Support**: All color themes have been designed to provide optimal syntax highlighting for a wide range of programming languages and file types. Whether you're writing code in JavaScript, Python, HTML, CSS, or any other language, TechSwahili Color Themes ensure a consistent and enjoyable coding experience.
 
-- **Accessibility**: We believe in inclusivity and strive to make our theme accessible to all users. The TechSwahili Color Theme meets the accessibility standards by maintaining a suitable contrast ratio, making it easier for users with visual impairments to read and write code.
+- **Accessibility**: We believe in inclusivity and strive to make our themes accessible to all users. The TechSwahili Color Themes meet accessibility standards by maintaining suitable contrast ratios, making it easier for users with visual impairments to read and write code.
+
+- **Modern UI Features**: The latest Modern Dark theme includes enhanced support for modern VS Code features like bracket pair colorization, improved git decorations, and contemporary status indicators.
 
 ## Installation
 
