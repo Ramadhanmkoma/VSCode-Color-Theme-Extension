@@ -4,6 +4,15 @@ All notable changes to the "techswahili" extension will be documented in this fi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2026-10-12
+
+### Added
+- **TechSwahili Usiku** (dark) and **TechSwahili Mchana** (light): a matching pair of calm, low-glare themes built from one shared palette.
+  - Full semantic highlighting plus TextMate rules for JS/TS, Python, Rust, Go, Java, C/C++, C#, PHP, HTML/JSX, CSS/SCSS, JSON/YAML/TOML, Shell, SQL, Markdown, diffs and log files
+  - Clear, distinct colors for errors, warnings, info and hints across squiggles, the gutter, overview ruler, minimap, Problems panel, status bar and the Error Lens extension
+  - Readable contrast for syntax colors, with comments kept muted so the code stays in focus
+- `scripts/generate-themes.js` creates both theme files from their palettes
+
 ## [1.1.0] - 2025-08-20
 
 ### Added

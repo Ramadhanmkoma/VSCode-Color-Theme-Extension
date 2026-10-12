@@ -2,7 +2,7 @@
   "name": "techswahili",
   "displayName": "TechSwahili Theme",
   "description": "Color Theme for VScode, made with love.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "Ramadhanmkoma",
   "engines": {
     "vscode": "^1.79.0"
@@ -12,6 +12,16 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "TechSwahili Usiku",
+        "uiTheme": "vs-dark",
+        "path": "./themes/techswahili-usiku.json"
+      },
+      {
+        "label": "TechSwahili Mchana",
+        "uiTheme": "vs",
+        "path": "./themes/techswahili-mchana.json"
+      },
       {
         "label": "TechSwahili Deep",
         "uiTheme": "vs-dark",
@@ -79,7 +89,12 @@
     "modern theme",
     "purple theme",
     "contemporary theme",
-    "ui theme"
+    "ui theme",
+    "light theme",
+    "usiku",
+    "mchana",
+    "calm theme",
+    "semantic highlighting"
   ],
   "icon": "icon.png",
   "license": "MIT",

@@ -6,7 +6,14 @@ TechSwahili Color Theme is a vibrant and visually appealing color theme collecti
 
 ## Available Themes
 
-### 🌟 TechSwahili Modern Dark (NEW!)
+### 🌗 TechSwahili Usiku & TechSwahili Mchana (NEW!)
+A matching dark (*Usiku*, "night") and light (*Mchana*, "daytime") pair designed to be calm and easy on the eyes:
+- **Soft, low-glare palette**: a blue-charcoal background at night and warm paper during the day, with a sea-teal accent
+- **Clear diagnostics**: errors, warnings, info and hints have their own colors in the editor, gutter, minimap, Problems panel and status bar, and Error Lens is supported
+- **Broad language support**: semantic highlighting plus rules for JS/TS, Python, Rust, Go, Java, C/C++, C#, PHP, HTML/JSX, CSS, JSON/YAML/TOML, Shell, SQL, Markdown and more
+- **Readable contrast**: syntax colors stay legible on both backgrounds, while comments are muted
+
+### 🌟 TechSwahili Modern Dark
 A contemporary dark theme featuring:
 - **Modern purple accent color** (#7c3aed) for a sophisticated look
 - **Enhanced bracket pair colorization** with 6 distinct colors
